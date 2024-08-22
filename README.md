@@ -26,7 +26,7 @@ The pre-trained and fine-tuned models are stored in a OneDrive directory accessi
 The repository is organized as follows:
 
 ```plaintext
-blip/
+/
 ├── chartqa/                     # Directory containing ChartQA dataset files
 ├── imgs/                        # Directory containing example images
 ├── multiColumn/                 # Directory containing multi-column dataset files
