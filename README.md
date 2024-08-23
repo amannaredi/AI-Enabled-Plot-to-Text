@@ -15,9 +15,9 @@ The following datasets were used in this project:
 - **ChartQA Dataset**: [Link to Dataset](https://drive.google.com/drive/folders/1i-H5H8kokxXtNxRfwF4Pu0XTR28Ktb8W?usp=sharing)
 - **Chart-to-Text Dataset**: [Link to Dataset](https://drive.google.com/drive/folders/1Sdy-n_IzxCWpFDK0nQGk8rWlEOimgh6w?usp=sharing)
 
-## Github Repository of the dataset:
+## Github Repository of the datasets:
 - Chartqa Dataset: [Link to Github of Dataset](https://github.com/vis-nlp/ChartQA)
-- Chart-to-Text Datsaset: [Link to Github of Dataset](https://github.com/vis-nlp/Chart-to-text))
+- Chart-to-Text Datsaset: [Link to Github of Dataset](https://github.com/vis-nlp/Chart-to-text)
 
 
 ## Model Files
